@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../Документы/task-x"
+	},
+	{
+		"path": "../day3/webfonts"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "task-x",
+    "liveServer.settings.port": 5501
+  }
+}
